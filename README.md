@@ -21,7 +21,6 @@ This project aims to create a word cloud from customer reviews collected from fo
 	+ wordcloud
 	+ spacy
 
-## Power BI Link
-You can access the Power BI report here.: https://app.powerbi.com/links/dA6BL7rJCo?ctid=b590bab6-4e16-4428-b66b-24a87840da34&pbi_source=linkShare&bookmarkGuid=220250ba-4530-4f17-9514-f2c4ba9436ea
+## Power BI Screenshots
 
-
+![Word Cloud](https://www.dropbox.com/scl/fi/3nolmocetm7pvwbf17xrl/word_cloud.gif?rlkey=nekd1w6gbihvknifao109cy6x&st=pv7tsxn4&dl=0)
