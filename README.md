@@ -23,4 +23,4 @@ This project aims to create a word cloud from customer reviews collected from fo
 
 ## Power BI Screenshots
 
-![Word Cloud](https://www.dropbox.com/scl/fi/3nolmocetm7pvwbf17xrl/word_cloud.gif)
+![Word Cloud](https://dl.dropboxusercontent.com/scl/fi/3nolmocetm7pvwbf17xrl/word_cloud.gif?rlkey=nekd1w6gbihvknifao109cy6x&st=cgfy14mu&dl=0)
